@@ -49,6 +49,7 @@ t.rt(140)
 #creating the right leaf
 
 leaf()
+t.hideturtle()
 turtle.done()
 
 
